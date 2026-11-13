@@ -1,2 +1,2 @@
-# mi-segundo-repositorio_Juan-Gomez
+# mi-primer-repositorio_Juan-Gomez
 Repositorio acorde al pdf.
